@@ -1,0 +1,19 @@
+.progress-bar {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  height: 20px;
+  width: 100%;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-bar span {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.violet span {
+  background-color: #7734e3;
+}
